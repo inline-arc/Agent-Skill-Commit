@@ -1,0 +1,12 @@
+<type>(<optional scope>): <short imperative subject>
+
+<optional body: what changed and why — wrap at 72 characters>
+
+<optional footer: BREAKING CHANGE: <description> | Refs: #issue>
+
+# Types: feat | fix | refactor | docs | style | perf | test | build | ci | chore | revert
+# Rules:
+#   - imperative mood ("add", not "added"), subject <= 72 chars, no trailing period
+#   - one logical change per commit
+#   - specific messages only; never "WIP" / "updates" / "checkpoint"
+# See references/git-convention.md for the full conventions.
