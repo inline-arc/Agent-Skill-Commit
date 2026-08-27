@@ -1,0 +1,28 @@
+{
+  "name": "agent-skill-commit",
+  "version": "1.0.0",
+  "description": "Agent Commit Skill Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inline-arc/Agent-Skill-Commit.git"
+  },
+  "keywords": [
+    "agent",
+    "llm",
+    "skill",
+    "claude",
+    "tool",
+    "github",
+    "workflow"
+  ],
+  "author": "Atharv More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inline-arc/Agent-Skill-Commit/issues"
+  },
+  "homepage": "https://github.com/inline-arc/Agent-Skill-Commit#readme"
+}
